@@ -382,10 +382,13 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-02 00:43:52 +0000",
       "minecraft:taiga": "2024-12-02 00:44:52 +0000",
+      "minecraft:frozen_river": "2024-12-02 19:31:51 +0000",
       "minecraft:beach": "2024-12-02 00:33:47 +0000",
       "minecraft:river": "2024-12-02 03:02:18 +0000",
+      "minecraft:snowy_plains": "2024-12-02 19:32:34 +0000",
       "minecraft:forest": "2024-12-02 01:29:21 +0000",
       "minecraft:lush_caves": "2024-12-02 18:42:10 +0000",
+      "minecraft:ice_spikes": "2024-12-02 19:32:05 +0000",
       "minecraft:plains": "2024-12-02 02:54:04 +0000"
     },
     "done": false
@@ -398,8 +401,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-02 19:24:49 +0000",
       "maple_woods": "2024-12-02 00:34:36 +0000",
-      "pumpkin_patch": "2024-12-02 02:13:15 +0000"
+      "field": "2024-12-02 19:22:36 +0000",
+      "pumpkin_patch": "2024-12-02 02:13:15 +0000",
+      "snowy_maple_woods": "2024-12-02 19:23:32 +0000"
     },
     "done": false
   },
@@ -2096,6 +2102,7 @@
       "minecraft:ravager": "2024-12-02 01:32:07 +0000",
       "minecraft:spider": "2024-12-02 01:23:45 +0000",
       "minecraft:cave_spider": "2024-12-02 19:14:08 +0000",
+      "minecraft:silverfish": "2024-12-02 19:24:00 +0000",
       "minecraft:zombie": "2024-12-02 00:43:00 +0000",
       "minecraft:zombie_villager": "2024-12-02 01:24:27 +0000"
     },
@@ -2179,7 +2186,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "taiga": "2024-12-02 00:44:45 +0000"
+      "taiga": "2024-12-02 00:44:45 +0000",
+      "snowy": "2024-12-02 19:29:33 +0000"
     },
     "done": false
   },
@@ -6859,15 +6867,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2024-12-02 19:04:40 +0000"
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-02 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-02 19:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-02 19:08:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-02 19:26:48 +0000"
     },
     "done": true
   },
@@ -6925,9 +6975,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2024-12-02 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:56 +0000"
     },
     "done": true
   },
@@ -6943,9 +7023,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 19:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-02 19:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-02 19:07:56 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2024-12-02 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
     },
     "done": true
   },
@@ -6955,9 +7077,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-02 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-02 19:24:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-02 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-02 19:31:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
     },
     "done": true
   },
@@ -6973,9 +7125,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-02 19:24:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_cobweb": "2024-12-02 19:08:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-02 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-02 19:19:06 +0000"
     },
     "done": true
   },
@@ -6985,9 +7173,21 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-02 19:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-02 19:05:17 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2024-12-02 19:28:52 +0000"
     },
     "done": true
   },
@@ -6997,9 +7197,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-02 19:26:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-12-02 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-02 19:32:46 +0000"
     },
     "done": true
   },
