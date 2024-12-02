@@ -2138,3 +2138,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 17:34:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
 [02Dec2024 17:38:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 138.500000, 71.500000, 96.500000]
 [02Dec2024 17:38:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 17:40:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Pray to the Goddess]
+[02Dec2024 17:40:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [Pray to the Goddess]
+[02Dec2024 17:50:12.714] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Dec2024 17:50:12.715] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Dec2024 17:56:53.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/1463, l='ServerLevel[world]', x=221.26, y=63.00, z=171.50] died, message: 'Florist succumbed to infection.'
+[02Dec2024 17:56:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Quaint Scribe]
+[02Dec2024 17:57:43.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Flawless Crystals]
+[02Dec2024 17:58:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Shape of My Heart]
