@@ -2416,3 +2416,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:37:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Jeweler]
 [02Dec2024 20:39:45.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Duke Pennie the ... Something'/51409, l='ServerLevel[world]', x=269.49, y=65.00, z=188.88] died: Duke Pennie the ... Something was slain by Flaqued
 [02Dec2024 20:41:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 20:41:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:42:44.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:42:59.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Gem Dust] to Flaqued]
+[02Dec2024 20:44:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [No Longer Short-Staffed]
+[02Dec2024 20:44:57.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [No Longer Short-Staffed]
+[02Dec2024 20:45:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 2 [Gem Dust] to Flaqued]
+[02Dec2024 20:47:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Hot Stuff]
+[02Dec2024 20:47:35.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/51684, l='ServerLevel[world]', x=328.56, y=66.97, z=221.21] died: Honeyed Archer went off with a bang
+[02Dec2024 20:47:53.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:49:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Secrets of Enchanting]
+[02Dec2024 20:50:06.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Source of Evil]

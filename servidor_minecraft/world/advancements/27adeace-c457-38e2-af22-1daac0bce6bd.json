@@ -3010,6 +3010,7 @@
       "minecraft:evoker": "2024-12-02 01:29:16 +0000",
       "quark:forgotten": "2024-12-02 02:05:33 +0000",
       "minecraft:phantom": "2024-12-02 18:04:40 +0000",
+      "minecraft:witch": "2024-12-02 20:39:45 +0000",
       "minecraft:husk": "2024-12-02 01:04:53 +0000",
       "minecraft:cave_spider": "2024-12-02 02:34:57 +0000",
       "minecraft:enderman": "2024-12-02 17:35:37 +0000",
@@ -8140,6 +8141,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-02 20:39:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-02 20:31:24 +0000"
@@ -8242,6 +8249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-02 20:43:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-02 19:47:07 +0000"
@@ -8326,6 +8339,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-02 20:39:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-02 19:53:47 +0000"
@@ -8359,6 +8378,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_leggings": {
     "criteria": {
       "has_item": "2024-12-02 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-02 20:43:12 +0000"
     },
     "done": true
   },
@@ -8542,6 +8567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-02 20:39:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2024-12-02 19:34:06 +0000"
@@ -8608,6 +8639,12 @@
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-12-02 20:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-02 19:47:07 +0000"
@@ -8635,6 +8672,12 @@
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2024-12-02 19:38:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-02 20:39:46 +0000"
     },
     "done": true
   },
@@ -8674,6 +8717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-02 20:43:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-02 19:38:54 +0000"
@@ -8683,6 +8732,12 @@
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2024-12-02 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-02 20:44:57 +0000"
     },
     "done": true
   },
@@ -8761,6 +8816,18 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-02 19:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-02 20:39:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-02 20:39:46 +0000"
     },
     "done": true
   },
