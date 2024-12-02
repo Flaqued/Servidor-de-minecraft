@@ -9214,6 +9214,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-02 22:14:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-12-02 21:27:07 +0000"
@@ -9229,6 +9235,12 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2024-12-02 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-02 22:14:44 +0000"
     },
     "done": true
   },

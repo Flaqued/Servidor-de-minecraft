@@ -2621,3 +2621,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 22:06:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
 [02Dec2024 22:10:40.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -448.4230053486659,-14.0,-74.44240949814866
 [02Dec2024 22:11:45.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 64 [Apple] to Flaqued]
+[02Dec2024 22:14:44.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Wind Darkening]
+[02Dec2024 22:14:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Exorcism]
+[02Dec2024 22:14:56.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/89596, l='ServerLevel[world]', x=718.77, y=71.85, z=239.64] died: Honeyed Archer was slain by Flaqued
+[02Dec2024 22:15:20.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 22:18:09.165] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[02Dec2024 22:19:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 670.500000, 74.500000, 252.500000]
