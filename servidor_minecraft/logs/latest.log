@@ -3896,3 +3896,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 01:05:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [A Fast Comeback]
 [02Dec2024 01:05:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [How'd You Get This?]
 [02Dec2024 01:05:44.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2187, l='ServerLevel[world]', x=193.37, y=64.92, z=73.47] died, message: 'Weaponsmith was slain by Zombie'
+[02Dec2024 01:07:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Onibi
+[02Dec2024 01:07:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Your First Grave]
+[02Dec2024 01:07:04.130] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 01:07:06.274] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 01:07:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Most Useful Key]
+[02Dec2024 01:07:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [A Fast Comeback]
+[02Dec2024 01:07:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Here They Come]
+[02Dec2024 01:07:29.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1675, l='ServerLevel[world]', x=220.46, y=63.00, z=112.57] died, message: 'Armorer was slain by Zombie'
+[02Dec2024 01:07:39.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/2176, l='ServerLevel[world]', x=236.06, y=63.00, z=139.74] died, message: 'Forester succumbed to infection.'
+[02Dec2024 01:07:47.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2105, l='ServerLevel[world]', x=229.09, y=64.00, z=88.55] died, message: 'Unemployed was slain by Zombie Villager'
+[02Dec2024 01:10:53.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Acquire Hardware]
+[02Dec2024 01:12:00.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Isn't It Iron Pick]
+[02Dec2024 01:12:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [Worthy Equipment]
+[02Dec2024 01:12:43.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Acquire Hardware]
+[02Dec2024 01:14:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Hunt and Gather]
+[02Dec2024 01:15:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 01:15:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Solitary]
+[02Dec2024 01:17:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [I Found It Underground]
