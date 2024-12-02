@@ -386,6 +386,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-02 19:06:41 +0000",
       "maple_woods": "2024-12-02 00:28:47 +0000",
       "dead_forest": "2024-12-02 19:00:53 +0000",
       "pumpkin_patch": "2024-12-02 00:52:45 +0000",
@@ -2875,7 +2876,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "taiga": "2024-12-02 00:44:49 +0000"
+      "taiga": "2024-12-02 00:44:49 +0000",
+      "snowy": "2024-12-02 19:06:46 +0000"
     },
     "done": false
   },
@@ -2886,6 +2888,7 @@
       "minecraft:frozen_river": "2024-12-02 19:05:06 +0000",
       "minecraft:beach": "2024-12-02 01:07:07 +0000",
       "minecraft:river": "2024-12-02 03:02:17 +0000",
+      "minecraft:snowy_plains": "2024-12-02 19:09:28 +0000",
       "minecraft:forest": "2024-12-02 01:28:39 +0000",
       "minecraft:frozen_ocean": "2024-12-02 19:03:17 +0000",
       "minecraft:snowy_beach": "2024-12-02 19:01:17 +0000",
@@ -7600,9 +7603,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "naturescompass:natures_compass": {
     "criteria": {
-      "has_any_ingredient": "2024-12-02 19:06:01 +0000"
+      "has_compass": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-12-02 18:55:28 +0000"
     },
     "done": true
   },
@@ -7612,27 +7627,9 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
-    "criteria": {
-      "has_items": "2024-12-02 18:58:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-02 18:57:35 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2024-12-02 19:00:02 +0000"
     },
     "done": true
   },
@@ -7654,27 +7651,9 @@
     },
     "done": true
   },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2024-12-02 18:58:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-02 18:57:35 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_crops": {
-    "criteria": {
-      "red_taiga_grape_seeds": "2024-12-02 18:59:59 +0000"
     },
     "done": true
   },
@@ -7702,12 +7681,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2024-12-02 19:00:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-02 18:57:35 +0000"
@@ -7720,21 +7693,9 @@
     },
     "done": true
   },
-  "beautify:candelabras": {
-    "criteria": {
-      "requirement": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-02 18:57:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2024-12-02 19:00:08 +0000"
     },
     "done": true
   },
@@ -7750,18 +7711,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_compass": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-02 18:57:35 +0000"
@@ -7774,35 +7723,11 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-02 19:01:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2024-12-02 18:57:35 +0000"
     },
     "done": true
-  },
-  "vinery:main/crop_collector": {
-    "criteria": {
-      "vinery:taiga_grape_seeds_red": "2024-12-02 18:59:59 +0000"
-    },
-    "done": false
   },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
@@ -7822,27 +7747,9 @@
     },
     "done": true
   },
-  "brewery:recipes/breathalyzer": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-12-02 18:57:35 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-02 19:02:55 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_gloves_repairing": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
     },
     "done": true
   },
@@ -7852,33 +7759,9 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-12-02 19:06:01 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2024-12-02 18:58:11 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2024-12-02 18:57:35 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2024-12-02 19:00:08 +0000"
     },
     "done": true
   },
@@ -7894,9 +7777,135 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-02 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2024-12-02 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-02 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_taiga_grape_seeds": "2024-12-02 18:59:59 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:taiga_grape_seeds_red": "2024-12-02 18:59:59 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-02 19:00:02 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-02 19:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 19:00:08 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-02 19:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2024-12-02 19:00:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-02 19:01:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-02 19:02:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-02 19:06:01 +0000"
     },
     "done": true
   },
@@ -7906,9 +7915,45 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_iron_nugget": "2024-12-02 19:05:37 +0000"
+      "diamond_chestplate": "2024-12-02 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-02 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-02 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-02 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-02 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-02 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-02 19:12:24 +0000"
     },
     "done": true
   },
