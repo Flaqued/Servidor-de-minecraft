@@ -2337,3 +2337,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 19:59:18.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was sniped by Archer
 [02Dec2024 19:59:19.970] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02Dec2024 19:59:55.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 20:01:16.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Leo the Manly'/40219, l='ServerLevel[world]', x=178.65, y=73.00, z=-1465.95] died: Leo the Manly was slain by Zombie
+[02Dec2024 20:02:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Sweet Dreams]
+[02Dec2024 20:02:03.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Dec2024 20:02:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [The Beginning of An Adventure]
+[02Dec2024 20:02:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Cover Me In Emeralds]
+[02Dec2024 20:02:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[02Dec2024 20:02:20.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Kicked for spamming
+[02Dec2024 20:02:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[02Dec2024 20:02:20.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
+[02Dec2024 20:02:20.920] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 20:02:36.572] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d5274db[id=<null>,name=ThunDer992,properties={},legacy=false] (/127.148.191.230:53883) lost connection: Disconnected
+[02Dec2024 20:02:41.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:43601] logged in with entity id 40481 at (153.5, 71.5, -1415.5)
+[02Dec2024 20:02:41.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[02Dec2024 20:02:41.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[02Dec2024 20:02:41.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[02Dec2024 20:02:41.819] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[02Dec2024 20:02:41.820] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[02Dec2024 20:02:41.822] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[02Dec2024 20:02:41.822] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[02Dec2024 20:02:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[02Dec2024 20:02:42.054] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[02Dec2024 20:02:42.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[02Dec2024 20:02:42.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 20:02:42.058] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[02Dec2024 20:02:42.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[02Dec2024 20:05:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was chopped to bits by Skirmisher
+[02Dec2024 20:05:41.534] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 20:05:43.869] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:06:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Chain Death]
+[02Dec2024 20:06:23.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was sniped by Archer
+[02Dec2024 20:06:24.634] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:06:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was sniped by Archer
+[02Dec2024 20:06:55.026] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:08:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 20:09:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
