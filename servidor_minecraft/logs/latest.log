@@ -3914,3 +3914,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 01:15:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Isn't It Iron Pick]
 [02Dec2024 01:15:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Solitary]
 [02Dec2024 01:17:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [I Found It Underground]
+[02Dec2024 01:18:49.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 01:19:27.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/1697, l='ServerLevel[world]', x=229.32, y=63.00, z=191.30] died, message: 'Florist was slain by Zombie'
+[02Dec2024 01:22:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 01:22:36.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/17055, l='ServerLevel[world]', x=152.62, y=73.85, z=96.18] died: Honeyed Archer suffocated in a wall
+[02Dec2024 01:22:37.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:22:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Far From Perfect]
+[02Dec2024 01:24:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:24:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Dark Metallurgy]
+[02Dec2024 01:25:31.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/2186, l='ServerLevel[world]', x=260.84, y=66.00, z=137.70] died, message: 'Florist was slain by Zombie'
+[02Dec2024 01:25:33.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 01:25:34.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/2350, l='ServerLevel[world]', x=260.07, y=66.00, z=137.30] died, message: 'Florist was slain by Zombie Villager'
+[02Dec2024 01:25:47.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 01:25:48.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:25:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Dark Metallurgy]
+[02Dec2024 01:26:36.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
