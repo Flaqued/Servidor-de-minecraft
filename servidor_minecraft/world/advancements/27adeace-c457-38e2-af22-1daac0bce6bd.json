@@ -3083,6 +3083,7 @@
     "criteria": {
       "barrel": "2024-12-02 01:17:09 +0000",
       "smoker": "2024-12-02 01:15:37 +0000",
+      "smithingtable": "2024-12-02 20:35:47 +0000",
       "blastfurnace": "2024-12-02 00:50:51 +0000"
     },
     "done": false
@@ -8139,6 +8140,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-02 20:31:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-02 19:28:41 +0000"
@@ -8274,6 +8281,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-02 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-02 20:29:44 +0000"
     },
     "done": true
   },
@@ -8451,6 +8464,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2024-12-02 20:37:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-02 19:38:54 +0000"
@@ -8550,6 +8569,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-02 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-02 20:29:57 +0000"
     },
     "done": true
   },

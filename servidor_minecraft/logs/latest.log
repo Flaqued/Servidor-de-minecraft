@@ -2412,3 +2412,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:22:25.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [A Flaming Sword]
 [02Dec2024 20:22:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Crafted Rare Weapon Soul] to Flaqued]
 [02Dec2024 20:29:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 20 [Diamond] to Flaqued]
+[02Dec2024 20:35:49.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46519, l='ServerLevel[world]', x=243.70, y=63.00, z=190.49] died, message: 'Unemployed was slain by Zombie'
+[02Dec2024 20:37:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Jeweler]
+[02Dec2024 20:39:45.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Duke Pennie the ... Something'/51409, l='ServerLevel[world]', x=269.49, y=65.00, z=188.88] died: Duke Pennie the ... Something was slain by Flaqued
+[02Dec2024 20:41:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
