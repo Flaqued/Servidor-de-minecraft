@@ -132,5 +132,5 @@
 	#This is for modded gear that can't be automatically recognized by the mod. If there's say a weapon like a staff in another mod, but this mod doesn't recognize it. Put it here. The usage is: modid:path:gear_slot_id. Example: minecraft:diamond_sword:sword
 	gear_compatibility = ["minecraft:iron_sword:sword"]
 	#Stops items from being used in maps/adventuremaps. This is used for items that allow cheesing mechanics like teleporation items mostly.
-	disabled_items_in_maps = ["minecraft:ender_pearl", "minecraft:chorus_fruit"]
+	disabled_items_in_maps = ["minecraft:ender_pearl", "minecraft:chorus_fruit", "mowziesmobs:wrought_axe:sword", "the_bumblezone:stinger_spear:sword"]
 
