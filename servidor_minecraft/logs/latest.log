@@ -3974,3 +3974,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 02:06:06.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/31884, l='ServerLevel[world]', x=621.84, y=81.41, z=259.85] died: Undead Knight was slain by Dread Hound
 [02Dec2024 02:06:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to 410.500000, 76.000000, 135.500000]
 [02Dec2024 02:07:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Let's Get To Work]
+[02Dec2024 02:12:08.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mother Emily the Cheese Sprayer'/33517, l='ServerLevel[world]', x=631.51, y=-9.00, z=226.97] died: Mother Emily the Cheese Sprayer was slain by Flaqued
+[02Dec2024 02:12:38.377] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Dec2024 02:16:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 02:17:42.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 02:18:57.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [How'd You Get This?]
+[02Dec2024 02:21:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 632.500000, -8.500000, 229.500000]
+[02Dec2024 02:21:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Crops of the Wild]
+[02Dec2024 02:21:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 02:25:16.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 02:25:55.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Captured!]
+[02Dec2024 02:26:47.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[02Dec2024 02:26:47.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
+[02Dec2024 02:26:47.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 27adeace-c457-38e2-af22-1daac0bce6bd was unloaded
+[02Dec2024 02:27:11.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flaqued[/127.98.112.201:51607] logged in with entity id 37440 at (577.1876782293975, -42.0, 157.78617690477435)
+[02Dec2024 02:27:11.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Flaqued
+[02Dec2024 02:27:11.275] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Flaqued
+[02Dec2024 02:27:11.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Flaqued
+[02Dec2024 02:27:11.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Flaqued
+[02Dec2024 02:27:11.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Flaqued
+[02Dec2024 02:27:11.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Flaqued
+[02Dec2024 02:27:11.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Flaqued
+[02Dec2024 02:27:11.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued joined the game
+[02Dec2024 02:27:11.490] [Server thread/INFO] [Jade/]: Syncing config to Flaqued (27adeace-c457-38e2-af22-1daac0bce6bd)
+[02Dec2024 02:27:11.494] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Flaqued...
+[02Dec2024 02:27:11.494] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 02:27:11.495] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Flaqued
+[02Dec2024 02:27:13.063] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 27adeace-c457-38e2-af22-1daac0bce6bd was loaded
+[02Dec2024 02:27:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Bone Crusher]
+[02Dec2024 02:27:52.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
