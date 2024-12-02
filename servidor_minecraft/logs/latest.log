@@ -2298,3 +2298,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 19:50:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was turned to ice by Ice Dragon
 [02Dec2024 19:50:00.492] [Server thread/INFO] [tombstone/]: The player ThunDer992 has successfully been saved
 [02Dec2024 19:50:01.739] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:50:42.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/31770, l='ServerLevel[world]', x=307.50, y=70.00, z=-1294.50] died, message: 'Botanist froze to death'
+[02Dec2024 19:51:01.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 19:51:30.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 19:52:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 19:53:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Ravager
+[02Dec2024 19:53:01.644] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 19:53:04.119] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:53:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Wild Crops]
+[02Dec2024 19:53:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Magic Writing]
+[02Dec2024 19:53:47.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Lore Writer]
+[02Dec2024 19:54:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Splintering II]
+[02Dec2024 19:54:52.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Crafted Rare Weapon Soul] to Flaqued]
+[02Dec2024 19:55:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was struck down by Legioner
+[02Dec2024 19:55:18.591] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 19:55:20.370] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:55:41.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Beginning of An Adventure]
+[02Dec2024 19:55:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Cover Me In Emeralds]
+[02Dec2024 19:56:14.745] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.054] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.278] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.279] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.371] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.371] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.386] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.387] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.402] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.675] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.901] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:15.918] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Dec2024 19:56:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was sniped by Archer
+[02Dec2024 19:56:29.426] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:57:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 19:58:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has completed the challenge [Village Defender]
+[02Dec2024 19:58:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was struck down by Legioner
+[02Dec2024 19:58:37.035] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 19:58:39.124] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:59:18.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was sniped by Archer
+[02Dec2024 19:59:19.970] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 19:59:55.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]

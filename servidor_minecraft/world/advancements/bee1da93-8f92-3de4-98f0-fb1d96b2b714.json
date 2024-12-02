@@ -386,6 +386,7 @@
       "minecraft:beach": "2024-12-02 00:33:47 +0000",
       "minecraft:river": "2024-12-02 03:02:18 +0000",
       "minecraft:snowy_plains": "2024-12-02 19:32:34 +0000",
+      "minecraft:snowy_taiga": "2024-12-02 19:56:18 +0000",
       "minecraft:forest": "2024-12-02 01:29:21 +0000",
       "minecraft:lush_caves": "2024-12-02 18:42:10 +0000",
       "minecraft:ice_spikes": "2024-12-02 19:32:05 +0000",
@@ -6875,6 +6876,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-02 19:55:01 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-12-02 19:44:22 +0000"
@@ -6989,6 +6996,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 19:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-02 19:12:56 +0000"
@@ -7037,6 +7050,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 19:50:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-02 19:44:22 +0000"
@@ -7070,6 +7089,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-02 19:17:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-02 19:55:01 +0000"
     },
     "done": true
   },
@@ -7124,6 +7149,12 @@
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-02 19:44:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-02 19:50:35 +0000"
     },
     "done": true
   },
