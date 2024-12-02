@@ -3009,6 +3009,7 @@
       "minecraft:ravager": "2024-12-02 01:29:32 +0000",
       "minecraft:vindicator": "2024-12-02 01:33:12 +0000",
       "minecraft:spider": "2024-12-02 01:01:41 +0000",
+      "minecraft:creeper": "2024-12-02 21:37:50 +0000",
       "minecraft:evoker": "2024-12-02 01:29:16 +0000",
       "quark:forgotten": "2024-12-02 02:05:33 +0000",
       "minecraft:phantom": "2024-12-02 18:04:40 +0000",
@@ -9190,6 +9191,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-02 21:27:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-02 21:39:08 +0000"
     },
     "done": true
   },

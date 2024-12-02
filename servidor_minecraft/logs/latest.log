@@ -2489,3 +2489,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 21:23:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
 [02Dec2024 21:30:28.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [Dark Creator]
 [02Dec2024 21:31:37.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 21:39:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Junior Summoner]
+[02Dec2024 21:39:19.891] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Dec2024 21:39:19.892] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Dec2024 21:41:08.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set the time to 1000]
+[02Dec2024 21:41:48.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
