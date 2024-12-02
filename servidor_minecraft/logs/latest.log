@@ -2427,3 +2427,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:47:53.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
 [02Dec2024 20:49:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Secrets of Enchanting]
 [02Dec2024 20:50:06.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Source of Evil]
+[02Dec2024 20:51:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:55:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Good Demoman]
+[02Dec2024 20:56:25.343] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Dec2024 20:56:25.345] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Dec2024 20:56:38.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Good Demoman]
+[02Dec2024 20:56:59.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Cowforath the Odd-Smelling'/56444, l='ServerLevel[world]', x=290.25, y=70.00, z=111.30] died: Cowforath the Odd-Smelling was slain by Flaqued
+[02Dec2024 20:57:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:57:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 199.500000, 63.500000, 126.500000]
+[02Dec2024 20:58:35.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 4 [Luminous Crystal Shard] to Flaqued]
