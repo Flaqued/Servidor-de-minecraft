@@ -3020,6 +3020,7 @@
       "minecraft:enderman": "2024-12-02 17:35:37 +0000",
       "minecraft:vex": "2024-12-02 01:29:16 +0000",
       "minecraft:zombie": "2024-12-02 00:48:44 +0000",
+      "minecraft:drowned": "2024-12-02 21:58:20 +0000",
       "minecraft:zombie_villager": "2024-12-02 01:43:59 +0000"
     },
     "done": false
@@ -9195,6 +9196,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-02 21:55:11 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-12-02 21:39:08 +0000"
@@ -9216,6 +9223,12 @@
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2024-12-02 21:27:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-02 22:00:43 +0000"
     },
     "done": true
   },
