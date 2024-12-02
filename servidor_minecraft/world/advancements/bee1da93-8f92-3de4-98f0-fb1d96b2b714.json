@@ -7520,21 +7520,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2024-12-02 20:55:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 20:13:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-02 20:17:28 +0000"
     },
     "done": true
   },
@@ -7544,33 +7532,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-02 20:22:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2024-12-02 20:20:12 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
-    "criteria": {
-      "has_items": "2024-12-02 20:17:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 20:13:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
-    "criteria": {
-      "has_item": "2024-12-02 20:22:03 +0000"
     },
     "done": true
   },
@@ -7583,12 +7547,6 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 20:13:40 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-02 20:50:06 +0000"
     },
     "done": true
   },
@@ -7610,9 +7568,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/globe_sepia": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_antique_ink": "2024-12-02 20:52:53 +0000"
+      "has_stone_bricks": "2024-12-02 20:13:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-02 20:13:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-02 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-12-02 20:17:28 +0000"
     },
     "done": true
   },
@@ -7622,9 +7598,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
-      "has_stone_bricks": "2024-12-02 20:13:40 +0000"
+      "all_effects": "2024-12-02 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-02 20:22:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-02 20:22:25 +0000"
     },
     "done": true
   },
@@ -7634,9 +7622,69 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "has_stone_bricks": "2024-12-02 20:13:40 +0000"
+      "corruption": "2024-12-02 20:50:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2024-12-02 20:52:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-02 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-02 20:58:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 21:02:13 +0000"
     },
     "done": true
   },

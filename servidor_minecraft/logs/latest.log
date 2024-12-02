@@ -2436,3 +2436,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:57:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
 [02Dec2024 20:57:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 199.500000, 63.500000, 126.500000]
 [02Dec2024 20:58:35.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 4 [Luminous Crystal Shard] to Flaqued]
+[02Dec2024 21:02:29.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[02Dec2024 21:02:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[02Dec2024 21:02:29.958] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
+[02Dec2024 21:02:48.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:44875] logged in with entity id 58433 at (210.35083707795044, -16.0, 229.1167896010865)
+[02Dec2024 21:02:48.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[02Dec2024 21:02:48.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[02Dec2024 21:02:48.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[02Dec2024 21:02:48.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[02Dec2024 21:02:48.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[02Dec2024 21:02:48.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[02Dec2024 21:02:48.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[02Dec2024 21:02:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[02Dec2024 21:02:48.270] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[02Dec2024 21:02:48.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[02Dec2024 21:02:48.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 21:02:48.275] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[02Dec2024 21:02:48.406] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[02Dec2024 21:03:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 21:04:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 550.500000, 71.500000, -187.500000]
+[02Dec2024 21:06:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 21:08:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 21:11:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Dread Knight
+[02Dec2024 21:11:01.642] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 21:11:02.832] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
