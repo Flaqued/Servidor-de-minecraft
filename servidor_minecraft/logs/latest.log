@@ -2117,3 +2117,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 23:20:39.838] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
 [02Dec2024 23:23:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 215.500000, 63.500000, 173.500000]
 [02Dec2024 23:28:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 5 [Block of Redstone] to Flaqued]
+[02Dec2024 23:29:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 5 [Glowstone] to Flaqued]
+[02Dec2024 23:31:34.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 3 [Nether Quartz] to Flaqued]
+[02Dec2024 23:32:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 680.500000, 74.500000, 250.500000]
+[02Dec2024 23:38:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set the time to 1000]
