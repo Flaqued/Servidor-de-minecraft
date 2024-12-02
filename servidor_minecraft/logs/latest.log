@@ -3941,3 +3941,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 01:34:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Worthy Equipment]
 [02Dec2024 01:35:43.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Diamonds!]
 [02Dec2024 01:35:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Tools of the Trade]
+[02Dec2024 01:39:49.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Voluntary Exile]
+[02Dec2024 01:41:41.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/2129, l='ServerLevel[world]', x=261.49, y=66.00, z=137.70] died, message: 'Florist was slain by Zombie'
+[02Dec2024 01:41:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 221.500000, 63.500000, 138.500000]
+[02Dec2024 01:41:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 01:42:25.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Animal Tamer'/2227, l='ServerLevel[world]', x=269.14, y=67.94, z=119.54] died, message: 'Animal Tamer was slain by Zombie'
+[02Dec2024 01:42:42.354] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2127, l='ServerLevel[world]', x=211.49, y=65.00, z=154.71] died, message: 'Armorer was sniped by Archer'
+[02Dec2024 01:42:49.288] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Dec2024 01:42:49.289] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Dec2024 01:43:09.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Fortuitous Militia]
+[02Dec2024 01:44:01.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/2132, l='ServerLevel[world]', x=215.37, y=63.00, z=217.62] died, message: 'Forester was slain by Zombie Bruiser'
+[02Dec2024 01:44:12.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Animal Tamer'/2161, l='ServerLevel[world]', x=226.68, y=64.00, z=210.30] died, message: 'Animal Tamer was slain by Zombie'
+[02Dec2024 01:44:55.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2235, l='ServerLevel[world]', x=235.66, y=64.54, z=225.00] died, message: 'Unemployed was slain by Vindicator'
+[02Dec2024 01:45:48.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/2185, l='ServerLevel[world]', x=279.11, y=71.52, z=114.11] died, message: 'Forester was chopped to bits by Skirmisher'
+[02Dec2024 01:47:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:48:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has completed the challenge [Hero of the Village]
+[02Dec2024 01:48:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has completed the challenge [Hero of the Village]
+[02Dec2024 01:48:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 01:48:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Solitary]
+[02Dec2024 01:48:23.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2137, l='ServerLevel[world]', x=194.01, y=63.00, z=211.64] died, message: 'Nitwit was slain by Zombie'
+[02Dec2024 01:48:25.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1696, l='ServerLevel[world]', x=193.03, y=63.00, z=210.94] died, message: 'Fletcher was slain by Zombie Villager'
+[02Dec2024 01:49:42.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/22524, l='ServerLevel[world]', x=153.62, y=68.00, z=186.00] died, message: 'Botanist succumbed to infection.'
+[02Dec2024 01:54:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 472.500000, 73.500000, 105.500000]
+[02Dec2024 01:59:59.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[02Dec2024 02:00:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 02:03:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 fell from a high place
+[02Dec2024 02:03:43.015] [Server thread/INFO] [tombstone/]: The player ThunDer992 has successfully been saved
+[02Dec2024 02:03:44.211] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 02:04:44.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to 270.500000, 70.000000, 156.500000]
+[02Dec2024 02:04:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Junior Summoner]
+[02Dec2024 02:05:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [This Belongs in a Museum]
+[02Dec2024 02:06:06.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/31884, l='ServerLevel[world]', x=621.84, y=81.41, z=259.85] died: Undead Knight was slain by Dread Hound
+[02Dec2024 02:06:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to 410.500000, 76.000000, 135.500000]
+[02Dec2024 02:07:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Let's Get To Work]
