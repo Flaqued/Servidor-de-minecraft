@@ -6845,15 +6845,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-02 18:35:16 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2024-12-02 18:44:05 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:horror_underthe_mantle": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "horror_underthe_mantle_0": "2024-12-02 18:35:16 +0000"
+      "double_trouble_0": "2024-12-02 18:54:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-02 18:53:47 +0000"
     },
     "done": true
   },

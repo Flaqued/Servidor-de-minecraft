@@ -2171,3 +2171,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 18:46:57.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
 [02Dec2024 18:46:57.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
 [02Dec2024 18:46:57.561] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
+[02Dec2024 18:51:34.210] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@98148a7[id=<null>,name=ThunDer992,properties={},legacy=false] (/127.148.191.230:51925) lost connection: Disconnected
+[02Dec2024 18:51:42.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:40203] logged in with entity id 6701 at (306.88015338206964, 4.0, 127.94600170982467)
+[02Dec2024 18:51:42.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[02Dec2024 18:51:42.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[02Dec2024 18:51:42.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[02Dec2024 18:51:42.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[02Dec2024 18:51:42.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[02Dec2024 18:51:42.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[02Dec2024 18:51:42.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[02Dec2024 18:51:42.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[02Dec2024 18:51:42.408] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[02Dec2024 18:51:42.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[02Dec2024 18:51:42.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 18:51:42.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[02Dec2024 18:51:42.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[02Dec2024 18:53:47.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [The Wind Darkening]
+[02Dec2024 18:54:07.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Double Trouble]
+[02Dec2024 18:54:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
