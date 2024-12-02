@@ -3870,3 +3870,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 00:53:46.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [02Dec2024 00:53:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
 [02Dec2024 00:56:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Amateur Archaeologist]
+[02Dec2024 00:57:34.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/5629, l='ServerLevel[world]', x=216.47, y=64.51, z=-38.35] died: Honeyed Archer was slain by Flaqued
+[02Dec2024 00:58:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:01:19.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/2106, l='ServerLevel[world]', x=241.43, y=65.00, z=84.80] died, message: 'Engineer was slain by Door Knight'
+[02Dec2024 01:01:36.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2175, l='ServerLevel[world]', x=211.67, y=65.00, z=78.30] died, message: 'Unemployed was slain by Zombie Villager'
+[02Dec2024 01:01:53.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/1648, l='ServerLevel[world]', x=209.70, y=67.00, z=64.54] died, message: 'Florist was slain by Zombie Villager'
+[02Dec2024 01:02:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Stay dead]
+[02Dec2024 01:02:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Source of Evil]
+[02Dec2024 01:02:29.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/1561, l='ServerLevel[world]', x=111.39, y=69.00, z=271.62] died, message: 'Botanist was slain by Door Knight'
+[02Dec2024 01:02:36.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 01:03:18.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [I Found It Underground]
+[02Dec2024 01:03:18.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Apothic Affixes]
+[02Dec2024 01:03:19.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Sweet Dreams]
+[02Dec2024 01:04:53.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Michael Morbius the Crying'/12377, l='ServerLevel[world]', x=124.93, y=72.00, z=81.12] died: Michael Morbius the Crying was slain by Flaqued
+[02Dec2024 01:04:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has completed the challenge [He Wasn't So Strong]
+[02Dec2024 01:04:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Ashes 'n Bones]
+[02Dec2024 01:05:00.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Knowledge of Death]
+[02Dec2024 01:05:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Ashes 'n Bones]
+[02Dec2024 01:05:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 01:05:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was slain by Kitsune
+[02Dec2024 01:05:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Your First Grave]
+[02Dec2024 01:05:23.779] [Server thread/INFO] [tombstone/]: The player ThunDer992 has successfully been saved
+[02Dec2024 01:05:25.364] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 01:05:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [The Most Useful Key]
+[02Dec2024 01:05:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [A Fast Comeback]
+[02Dec2024 01:05:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [How'd You Get This?]
+[02Dec2024 01:05:44.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2187, l='ServerLevel[world]', x=193.37, y=64.92, z=73.47] died, message: 'Weaponsmith was slain by Zombie'
