@@ -3861,3 +3861,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 00:44:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Ambush]
 [02Dec2024 00:44:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Voluntary Exile]
 [02Dec2024 00:44:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Not a Diamond]
+[02Dec2024 00:48:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Monster Hunter]
+[02Dec2024 00:48:44.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [A Strange Grave Dust]
+[02Dec2024 00:49:25.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 00:49:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Suit Up]
+[02Dec2024 00:50:51.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Let's Get To Work]
+[02Dec2024 00:53:27.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 00:53:46.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[02Dec2024 00:53:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 00:56:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Amateur Archaeologist]
