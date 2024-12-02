@@ -8037,6 +8037,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-02 20:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-02 19:28:41 +0000"
@@ -8340,6 +8346,12 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2024-12-02 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 20:15:51 +0000"
     },
     "done": true
   },
@@ -8736,6 +8748,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-02 19:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-02 20:15:51 +0000"
     },
     "done": true
   },

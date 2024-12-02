@@ -2383,3 +2383,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:06:55.026] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02Dec2024 20:08:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
 [02Dec2024 20:09:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 20:11:33.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Dec2024 20:13:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Dragonslayer]
+[02Dec2024 20:14:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was struck down by Legioner
+[02Dec2024 20:14:30.435] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:14:42.075] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Dec2024 20:15:41.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=72, z=-1401} BlockPos{x=140, y=72, z=-1401}
+[02Dec2024 20:16:03.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=73, z=-1411} BlockPos{x=126, y=73, z=-1412}
+[02Dec2024 20:16:05.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=72, z=-1408} BlockPos{x=130, y=72, z=-1408}
+[02Dec2024 20:16:14.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 20:16:18.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=72, z=-1409} BlockPos{x=137, y=72, z=-1410}
+[02Dec2024 20:16:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Zombie
+[02Dec2024 20:16:51.967] [Server thread/WARN] [tombstone/]: The drop event of the player Flaqued was canceled by another mod
+[02Dec2024 20:16:51.977] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 20:16:53.770] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:17:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was shot by Stray
+[02Dec2024 20:17:21.819] [Server thread/WARN] [tombstone/]: The drop event of the player Flaqued was canceled by another mod
+[02Dec2024 20:17:21.822] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[02Dec2024 20:17:23.622] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Dec2024 20:17:27.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Flaqued'/45840, l='ServerLevel[world]', x=136.97, y=72.00, z=-1408.68] died: Flaqued's Zombie was slain by ThunDer992
+[02Dec2024 20:17:57.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Flaqued'/46078, l='ServerLevel[world]', x=137.09, y=72.00, z=-1415.06] died: Flaqued's Zombie was slain by ThunDer992
+[02Dec2024 20:18:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 217.500000, 63.500000, 167.500000]
+[02Dec2024 20:19:09.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 20:19:26.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 5 [Ice Dragon Blood] to Flaqued]
+[02Dec2024 20:19:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [A Flaming Sword]
+[02Dec2024 20:20:12.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has completed the challenge [Eye of the Tiger]
