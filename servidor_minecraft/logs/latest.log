@@ -2614,3 +2614,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 21:59:30.424] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
 [02Dec2024 21:59:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
 [02Dec2024 22:02:41.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 217.500000, 64.500000, 175.500000]
+[02Dec2024 22:03:04.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[02Dec2024 22:03:36.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Diamond Shovel] to Flaqued]
+[02Dec2024 22:03:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[02Dec2024 22:05:19.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=684, y=75, z=235} BlockPos{x=664, y=74, z=224}
+[02Dec2024 22:06:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from ThunDer992]
+[02Dec2024 22:10:40.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -448.4230053486659,-14.0,-74.44240949814866
+[02Dec2024 22:11:45.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 64 [Apple] to Flaqued]
