@@ -80,3 +80,14 @@
 [03Dec2024 01:07:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
 [03Dec2024 01:07:53.088] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
 [03Dec2024 01:10:19.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Sandy the Light'/30015, l='ServerLevel[world]', x=164.44, y=69.00, z=78.42] died: Sandy the Light was slain by Flaqued
+[03Dec2024 01:10:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Zombified Piglin
+[03Dec2024 01:10:44.034] [Server thread/WARN] [tombstone/]: The drop event of the player Flaqued was canceled by another mod
+[03Dec2024 01:10:45.929] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 01:11:09.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[03Dec2024 01:13:26.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Flaqued'/31358, l='ServerLevel[world]', x=181.30, y=70.00, z=80.70] died: Flaqued's Zombie was slain by Flaqued
+[03Dec2024 01:13:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[03Dec2024 01:14:52.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[03Dec2024 01:16:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[03Dec2024 01:16:20.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Applied enchantment Sharpness IV to Flaqued's item]
+[03Dec2024 01:17:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[03Dec2024 01:18:43.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
