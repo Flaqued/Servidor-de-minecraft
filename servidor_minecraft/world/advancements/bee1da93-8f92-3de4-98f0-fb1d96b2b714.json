@@ -8007,5 +8007,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-02 23:56:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-02 23:56:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
