@@ -16,3 +16,22 @@
 [03Dec2024 00:19:33.504] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
 [03Dec2024 00:19:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Kicked ThunDer992: Kicked by an operator]
 [03Dec2024 00:19:33.534] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 00:20:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 681.500000, 74.500000, 252.500000]
+[03Dec2024 00:24:02.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f617b8d[id=<null>,name=ThunDer992,properties={},legacy=false] (/127.148.191.230:59647) lost connection: Disconnected
+[03Dec2024 00:24:07.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:40277] logged in with entity id 16527 at (203.85514308445664, 63.0, 160.02470494173713)
+[03Dec2024 00:24:08.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[03Dec2024 00:24:08.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[03Dec2024 00:24:08.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[03Dec2024 00:24:08.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[03Dec2024 00:24:08.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[03Dec2024 00:24:08.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[03Dec2024 00:24:08.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[03Dec2024 00:24:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[03Dec2024 00:24:08.179] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[03Dec2024 00:24:08.181] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[03Dec2024 00:24:08.182] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Dec2024 00:24:08.182] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[03Dec2024 00:24:08.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[03Dec2024 00:25:30.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [This Must be a Sign!]
+[03Dec2024 00:26:10.433] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Dec2024 00:27:27.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
