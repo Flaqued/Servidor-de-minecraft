@@ -7816,6 +7816,7 @@
   },
   "vinery:main/crop_collector": {
     "criteria": {
+      "vinery:jungle_grape_seeds_red": "2024-12-03 01:37:25 +0000",
       "vinery:red_grape_seeds": "2024-12-02 23:23:04 +0000",
       "vinery:taiga_grape_seeds_red": "2024-12-02 18:59:59 +0000"
     },
@@ -9401,6 +9402,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 01:37:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-03 00:57:13 +0000"
@@ -9515,6 +9522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-03 01:37:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-03 00:57:13 +0000"
@@ -9536,6 +9549,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-03 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-03 01:37:24 +0000"
     },
     "done": true
   },
