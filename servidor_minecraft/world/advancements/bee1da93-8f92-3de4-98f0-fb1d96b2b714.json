@@ -8007,6 +8007,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-03 00:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 00:11:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-02 23:56:31 +0000"
@@ -8016,6 +8028,30 @@
   "tombstone:adventure/use_lightning_resistance": {
     "criteria": {
       "has_magic_scroll": "2024-12-02 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-03 00:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 00:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 00:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-03 00:11:58 +0000"
     },
     "done": true
   },

@@ -3,3 +3,16 @@
 [03Dec2024 00:04:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 16 [Diamond] to Flaqued
 [03Dec2024 00:07:14.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 700.500000, 74.500000, 253.500000]
 [03Dec2024 00:08:44.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 202.500000, 64.500000, 196.500000]
+[03Dec2024 00:10:29.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 705.500000, 73.500000, 258.500000]
+[03Dec2024 00:11:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Crops of the Wild]
+[03Dec2024 00:15:49.663] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Dec2024 00:15:49.665] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Dec2024 00:16:41.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Arthur the Magical'/14646, l='ServerLevel[world]', x=664.42, y=74.00, z=229.21] died: Arthur the Magical was slain by Flaqued
+[03Dec2024 00:18:03.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 216.500000, 63.500000, 168.500000]
+[03Dec2024 00:19:03.362] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Dec2024 00:19:03.363] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Dec2024 00:19:33.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[03Dec2024 00:19:33.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[03Dec2024 00:19:33.504] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
+[03Dec2024 00:19:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Kicked ThunDer992: Kicked by an operator]
+[03Dec2024 00:19:33.534] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
