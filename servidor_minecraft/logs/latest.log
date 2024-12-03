@@ -91,3 +91,27 @@
 [03Dec2024 01:16:20.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Applied enchantment Sharpness IV to Flaqued's item]
 [03Dec2024 01:17:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
 [03Dec2024 01:18:43.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[03Dec2024 01:20:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Nether Wastes Enderman
+[03Dec2024 01:20:56.338] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 01:23:24.487] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d84a50a[id=<null>,name=ThunDer992,properties={},legacy=false] (/127.148.191.230:56845) lost connection: Disconnected
+[03Dec2024 01:23:31.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:34839] logged in with entity id 35517 at (174.8097024574332, 78.0, 35.870071371345944)
+[03Dec2024 01:23:31.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[03Dec2024 01:23:31.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[03Dec2024 01:23:31.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[03Dec2024 01:23:31.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[03Dec2024 01:23:31.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[03Dec2024 01:23:31.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[03Dec2024 01:23:31.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[03Dec2024 01:23:31.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[03Dec2024 01:23:31.642] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[03Dec2024 01:23:31.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[03Dec2024 01:23:31.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Dec2024 01:23:31.645] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[03Dec2024 01:23:31.866] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[03Dec2024 01:23:43.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 114.500000, 56.500000, 30.500000]
+[03Dec2024 01:25:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 was slain by Hoglin
+[03Dec2024 01:25:14.263] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 01:25:35.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Saul the Errant'/37371, l='ServerLevel[world]', x=675.01, y=73.85, z=241.61] died: Saul the Errant was slain by Flaqued
+[03Dec2024 01:26:08.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[03Dec2024 01:26:08.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[03Dec2024 01:26:08.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
