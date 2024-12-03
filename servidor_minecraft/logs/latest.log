@@ -48,3 +48,35 @@
 [03Dec2024 00:41:54.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
 [03Dec2024 00:44:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 5 [Diamond Sword] to Flaqued]
 [03Dec2024 00:47:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 64 [Diamond] to Flaqued]
+[03Dec2024 00:53:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[03Dec2024 00:53:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[03Dec2024 00:53:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[03Dec2024 00:55:54.398] [Worker-Main-85/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Dec2024 00:55:54.399] [Worker-Main-85/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Dec2024 00:55:54.401] [Worker-Main-85/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Dec2024 00:55:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [We Need to Go Deeper]
+[03Dec2024 00:56:00.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7512ms or 150 ticks behind
+[03Dec2024 00:56:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [We Need to Go Deeper]
+[03Dec2024 00:56:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Nightmare Fuel]
+[03Dec2024 00:56:22.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Nightmare Fuel]
+[03Dec2024 00:57:10.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=72, z=13} BlockPos{x=91, y=72, z=16}
+[03Dec2024 00:57:11.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Soul Forge]
+[03Dec2024 00:58:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Ice Bucket Challenge]
+[03Dec2024 00:58:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued tried to swim in lava to escape Netherite Monstrosity
+[03Dec2024 00:58:14.810] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[03Dec2024 00:58:16.023] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 00:58:27.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Who is Cutting Onions?]
+[03Dec2024 00:59:36.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[03Dec2024 01:01:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Giddy Blaze
+[03Dec2024 01:01:11.546] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 01:01:20.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was slain by Giddy Blaze
+[03Dec2024 01:01:20.597] [Server thread/INFO] [tombstone/]: The player Flaqued has successfully been saved
+[03Dec2024 01:01:22.298] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Dec2024 01:02:11.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[03Dec2024 01:03:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Into Fire]
+[03Dec2024 01:04:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[03Dec2024 01:04:44.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[03Dec2024 01:07:53.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[03Dec2024 01:07:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[03Dec2024 01:07:53.088] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was unloaded
+[03Dec2024 01:10:19.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Sandy the Light'/30015, l='ServerLevel[world]', x=164.44, y=69.00, z=78.42] died: Sandy the Light was slain by Flaqued
