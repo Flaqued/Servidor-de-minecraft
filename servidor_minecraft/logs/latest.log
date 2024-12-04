@@ -2152,3 +2152,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 19:37:39.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give op ThunDer992<--[HERE]
 [04Dec2024 19:38:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ThunDer992 a server operator
 [04Dec2024 19:38:45.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[04Dec2024 19:42:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Teleported ThunDer992 to 703.930000, 73.000000, 256.660000]
+[04Dec2024 19:42:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Teleported ThunDer992 to 703.930000, 73.000000, 256.660000]
+[04Dec2024 19:43:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Teleported ThunDer992 to 703.930000, 73.000000, 256.660000]
+[04Dec2024 19:43:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Teleported ThunDer992 to 703.930000, 73.000000, 256.660000]
+[04Dec2024 19:43:39.221] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 8216 ms
+[04Dec2024 19:43:39.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8208ms or 164 ticks behind
+[04Dec2024 19:43:48.351] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 88 ms
