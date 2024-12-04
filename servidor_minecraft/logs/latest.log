@@ -2177,3 +2177,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 21:46:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
 [04Dec2024 21:47:29.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [04Dec2024 21:50:23.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Lore Writer]
+[04Dec2024 21:53:52.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[04Dec2024 21:56:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[04Dec2024 22:02:46.217] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@17c27e4c]Trying to start horde event on day 30 with nextDay 30 and time 18000
+[04Dec2024 22:02:46.223] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@202cbdc5
+[04Dec2024 22:02:46.228] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[04Dec2024 22:02:46.229] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[04Dec2024 22:02:46.230] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[04Dec2024 22:02:46.231] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[04Dec2024 22:02:46.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[04Dec2024 22:02:46.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[04Dec2024 22:02:46.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[04Dec2024 22:03:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Once Upon a Cave]
+[04Dec2024 22:03:36.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[04Dec2024 22:03:36.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[04Dec2024 22:03:36.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[04Dec2024 22:03:45.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
