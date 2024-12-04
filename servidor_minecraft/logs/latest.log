@@ -2218,3 +2218,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 22:25:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Neighborhood Brawl]
 [04Dec2024 22:35:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [04Dec2024 22:39:00.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/18936, l='ServerLevel[world]', x=710.56, y=73.83, z=211.72] died: Undead Knight was slain by ThunDer992
+[04Dec2024 22:50:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Wild Grapes]
+[04Dec2024 22:54:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]

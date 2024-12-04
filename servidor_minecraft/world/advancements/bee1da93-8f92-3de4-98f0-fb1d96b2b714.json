@@ -8327,6 +8327,12 @@
     },
     "done": true
   },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "white_grape_seeds": "2024-12-04 22:50:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-04 21:38:15 +0000"
@@ -8428,6 +8434,12 @@
       "has_goddess_statue": "2024-12-04 22:20:00 +0000"
     },
     "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:white_grape_seeds": "2024-12-04 22:50:47 +0000"
+    },
+    "done": false
   },
   "forbidden_arcanus:recipes/misc/test_tube": {
     "criteria": {
