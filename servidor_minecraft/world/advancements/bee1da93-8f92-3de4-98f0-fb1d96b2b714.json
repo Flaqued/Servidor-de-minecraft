@@ -8219,21 +8219,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "has_log": "2024-12-03 01:43:04 +0000"
+      "has_golden_leggings": "2024-12-03 01:42:40 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "apotheosis:affix/boss": {
     "criteria": {
-      "coded_trigger": "2024-12-03 01:44:51 +0000"
+      "sword": "2024-12-03 01:42:40 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2024-12-03 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 01:43:04 +0000"
     },
     "done": true
   },
@@ -8255,15 +8261,33 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_leggings_repairing": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "has_golden_leggings": "2024-12-03 01:42:40 +0000"
+      "coded_trigger": "2024-12-03 01:44:51 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/boss": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "sword": "2024-12-03 01:42:40 +0000"
+      "has_gold_nugget": "2024-12-03 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-03 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-03 22:29:13 +0000"
     },
     "done": true
   },
