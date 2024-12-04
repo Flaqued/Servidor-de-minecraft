@@ -2221,3 +2221,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 22:50:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Wild Grapes]
 [04Dec2024 22:54:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [04Dec2024 23:05:11.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
+[04Dec2024 23:05:38.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Applied effect Haste to ThunDer992]
+[04Dec2024 23:05:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
