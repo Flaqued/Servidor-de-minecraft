@@ -2216,3 +2216,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 22:17:39.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -189.92018290531075,89.0,369.2928592807955
 [04Dec2024 22:20:38.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=712, y=73, z=264} BlockPos{x=712, y=72, z=264}
 [04Dec2024 22:25:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Neighborhood Brawl]
+[04Dec2024 22:35:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[04Dec2024 22:39:00.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/18936, l='ServerLevel[world]', x=710.56, y=73.83, z=211.72] died: Undead Knight was slain by ThunDer992

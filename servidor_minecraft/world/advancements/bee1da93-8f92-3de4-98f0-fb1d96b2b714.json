@@ -8441,6 +8441,12 @@
     },
     "done": true
   },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2024-12-04 22:33:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_gloves_repairing": {
     "criteria": {
       "has_chainmail_gloves": "2024-12-04 21:50:07 +0000"
