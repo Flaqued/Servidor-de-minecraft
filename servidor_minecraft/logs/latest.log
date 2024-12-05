@@ -2242,3 +2242,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 21:57:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
 [05Dec2024 22:00:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [05Dec2024 22:05:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Dark Blacksmith]
+[05Dec2024 22:14:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: 1 slots of type necklace have been added to ThunDer992]

@@ -10324,6 +10324,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2024-12-05 22:05:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-05 22:09:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2024-12-05 21:44:47 +0000"
