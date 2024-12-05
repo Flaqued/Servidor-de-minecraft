@@ -2344,3 +2344,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 17:42:24.380] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 27adeace-c457-38e2-af22-1daac0bce6bd was unloaded
 [05Dec2024 17:42:53.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a19c8[id=<null>,name=Flaqued,properties={},legacy=false] (/127.172.212.196:50767) lost connection: Disconnected
 [05Dec2024 17:42:55.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e759d5c[id=<null>,name=Flaqued,properties={},legacy=false] (/127.172.212.196:55433) lost connection: Disconnected
+[05Dec2024 17:52:44.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.148.191.230:33655] logged in with entity id 56721 at (525.436712832422, -36.0, 559.6170740534576)
+[05Dec2024 17:52:44.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ThunDer992
+[05Dec2024 17:52:44.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ThunDer992
+[05Dec2024 17:52:44.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ThunDer992
+[05Dec2024 17:52:44.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ThunDer992
+[05Dec2024 17:52:44.826] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ThunDer992
+[05Dec2024 17:52:44.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ThunDer992
+[05Dec2024 17:52:44.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ThunDer992
+[05Dec2024 17:52:44.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[05Dec2024 17:52:44.957] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[05Dec2024 17:52:44.965] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ThunDer992...
+[05Dec2024 17:52:44.965] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 17:52:44.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
+[05Dec2024 17:52:45.458] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
+[05Dec2024 17:53:00.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
