@@ -10325,6 +10325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-05 22:46:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10355,9 +10361,21 @@
     },
     "done": false
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-05 22:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-05 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-05 22:52:15 +0000"
     },
     "done": true
   },
@@ -10391,6 +10409,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-05 22:52:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2024-12-05 22:43:42 +0000"
@@ -10400,6 +10424,12 @@
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2024-12-05 22:47:08 +0000"
     },
     "done": true
   },
@@ -10430,6 +10460,12 @@
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-05 22:47:08 +0000"
     },
     "done": true
   },
@@ -10505,6 +10541,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-05 22:47:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10547,15 +10589,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-05 22:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_sugar": "2024-12-05 22:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-05 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-05 22:47:08 +0000"
     },
     "done": true
   },
@@ -10661,9 +10721,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-05 22:53:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-05 22:47:59 +0000"
     },
     "done": true
   },
