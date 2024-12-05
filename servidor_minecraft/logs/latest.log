@@ -2152,3 +2152,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 20:27:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [05Dec2024 20:28:54.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -5.699999988079071,76.0,293.0453981501663
 [05Dec2024 20:33:00.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 20:44:13.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
+[05Dec2024 20:46:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
+[05Dec2024 20:46:29.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dame Nina the President'/18426, l='ServerLevel[world]', x=769.08, y=68.04, z=258.03] died: Dame Nina the President was slain by ThunDer992
+[05Dec2024 20:48:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 20:53:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
