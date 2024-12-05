@@ -2359,3 +2359,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 17:52:44.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ThunDer992
 [05Dec2024 17:52:45.458] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of bee1da93-8f92-3de4-98f0-fb1d96b2b714 was loaded
 [05Dec2024 17:53:00.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
+[05Dec2024 18:01:26.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! 195.56328716757798,111.0,-304.6170740534576
+[05Dec2024 18:01:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
