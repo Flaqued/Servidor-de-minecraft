@@ -9304,11 +9304,41 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-05 16:59:50 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_professions_traded": {
     "criteria": {
       "librarian": "2024-12-05 16:53:19 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_0": "2024-12-05 17:00:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-05 16:59:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2024-12-05 17:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-05 16:59:50 +0000"
+    },
+    "done": true
   },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
@@ -9316,9 +9346,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-05 16:59:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2024-12-05 16:55:27 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2024-12-05 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-05 16:59:50 +0000"
     },
     "done": true
   },
