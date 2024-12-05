@@ -391,6 +391,7 @@
       "minecraft:forest": "2024-12-02 01:29:21 +0000",
       "minecraft:lush_caves": "2024-12-02 18:42:10 +0000",
       "minecraft:ice_spikes": "2024-12-02 19:32:05 +0000",
+      "minecraft:snowy_beach": "2024-12-05 16:31:10 +0000",
       "minecraft:plains": "2024-12-02 02:54:04 +0000"
     },
     "done": false
@@ -8528,6 +8529,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-05 16:33:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-05 14:53:33 +0000"
@@ -8615,6 +8622,12 @@
   "productivebees:recipes/misc/stonecutter/spruce_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2024-12-05 16:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-05 16:33:04 +0000"
     },
     "done": true
   },
@@ -8765,6 +8778,12 @@
   "productivebees:recipes/misc/stonecutter/magic_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2024-12-05 16:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-05 16:33:04 +0000"
     },
     "done": true
   },
@@ -8960,6 +8979,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-05 16:28:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2024-12-05 16:18:36 +0000"
@@ -9137,6 +9162,12 @@
   "productivebees:recipes/misc/stonecutter/rosewood_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2024-12-05 16:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-05 16:33:04 +0000"
     },
     "done": true
   },
