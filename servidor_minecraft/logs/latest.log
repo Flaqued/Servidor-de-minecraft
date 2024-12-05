@@ -2144,3 +2144,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 20:00:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
 [05Dec2024 20:01:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
 [05Dec2024 20:03:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Applied effect Night Vision to ThunDer992]
+[05Dec2024 20:14:06.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 20:17:23.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[05Dec2024 20:19:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 20:20:04.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[05Dec2024 20:25:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [The Cutest Predator]
+[05Dec2024 20:27:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 20:28:54.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -5.699999988079071,76.0,293.0453981501663
+[05Dec2024 20:33:00.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
