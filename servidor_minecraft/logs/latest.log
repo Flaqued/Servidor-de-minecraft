@@ -2143,3 +2143,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 19:58:16.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
 [05Dec2024 20:00:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
 [05Dec2024 20:01:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
+[05Dec2024 20:03:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Applied effect Night Vision to ThunDer992]
