@@ -2187,3 +2187,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 15:29:13.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=635, y=73, z=252} BlockPos{x=639, y=73, z=254}
 [05Dec2024 15:29:33.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Applied effect Haste to ThunDer992]
 [05Dec2024 15:40:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Gave 64 [Spirit Orb] to ThunDer992]
+[05Dec2024 15:50:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Creative Mode]
+[05Dec2024 15:53:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Set own game mode to Survival Mode]
