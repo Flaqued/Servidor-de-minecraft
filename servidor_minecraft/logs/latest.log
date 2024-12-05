@@ -2158,3 +2158,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 20:48:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [05Dec2024 20:53:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [05Dec2024 21:03:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Local Brewery]
+[05Dec2024 21:30:44.287] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Dec2024 21:32:56.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flaqued[/127.220.229.152:48185] logged in with entity id 25374 at (715.948054984767, 74.0, 258.1643608957146)
+[05Dec2024 21:32:56.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Flaqued
+[05Dec2024 21:32:56.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Flaqued
+[05Dec2024 21:32:56.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Flaqued
+[05Dec2024 21:32:56.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Flaqued
+[05Dec2024 21:32:56.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Flaqued
+[05Dec2024 21:32:56.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Flaqued
+[05Dec2024 21:32:56.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Flaqued
+[05Dec2024 21:32:57.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued joined the game
+[05Dec2024 21:32:57.325] [Server thread/INFO] [Jade/]: Syncing config to Flaqued (27adeace-c457-38e2-af22-1daac0bce6bd)
+[05Dec2024 21:32:57.334] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Flaqued...
+[05Dec2024 21:32:57.334] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 21:32:57.335] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Flaqued
+[05Dec2024 21:33:05.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 27adeace-c457-38e2-af22-1daac0bce6bd was loaded
+[05Dec2024 21:33:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [Big Boy]
+[05Dec2024 21:33:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flaqued> dcdcdcdcdc
+[05Dec2024 21:34:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flaqued> dcdcdc
+[05Dec2024 21:34:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> maxwuel
+[05Dec2024 21:34:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> una vi uan
