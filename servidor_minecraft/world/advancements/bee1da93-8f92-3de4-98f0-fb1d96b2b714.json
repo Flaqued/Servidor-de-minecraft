@@ -10034,6 +10034,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2024-12-05 22:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-05 20:27:31 +0000"
@@ -10160,6 +10166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-05 22:21:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:19:20 +0000"
@@ -10262,6 +10274,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-05 22:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-05 20:45:58 +0000"
@@ -10337,6 +10355,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-05 20:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-05 22:21:19 +0000"
     },
     "done": true
   },

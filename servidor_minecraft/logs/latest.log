@@ -2255,3 +2255,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 22:21:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Apothic Spawners]
 [05Dec2024 22:22:29.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
 [05Dec2024 22:22:47.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[05Dec2024 22:25:47.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Madam William the Curious'/49426, l='ServerLevel[world]', x=937.99, y=-40.00, z=26.73] died: Madam William the Curious was slain by ThunDer992
+[05Dec2024 22:25:57.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Dec2024 22:27:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 22:27:32.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Deceived Hopes]
+[05Dec2024 22:27:33.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[05Dec2024 22:27:55.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[05Dec2024 22:28:17.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[05Dec2024 22:28:35.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[05Dec2024 22:28:53.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[05Dec2024 22:29:18.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[05Dec2024 22:29:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7953ms or 159 ticks behind
+[05Dec2024 22:30:03.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7619ms or 152 ticks behind
+[05Dec2024 22:30:18.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/52568, l='ServerLevel[world]', x=806.96, y=77.00, z=-483.14] died, message: 'Unemployed was slain by Ice Dragon'
+[05Dec2024 22:30:34.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15361ms or 307 ticks behind
+[05Dec2024 22:30:37.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Major Benjamin the Mythical'/54414, l='ServerLevel[world]', x=793.35, y=-41.15, z=-370.16] died: Major Benjamin the Mythical was slain by Flaqued
+[05Dec2024 22:30:50.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/52319, l='ServerLevel[world]', x=801.91, y=74.00, z=-470.68] died, message: 'Forester was frozen by Ice Dragon'
+[05Dec2024 22:30:54.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5333ms or 106 ticks behind
+[05Dec2024 22:31:04.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Creeifish the Dark'/54898, l='ServerLevel[world]', x=791.23, y=-40.00, z=-383.50] died: Creeifish the Dark was slain by Flaqued
+[05Dec2024 22:31:16.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6933ms or 138 ticks behind
+[05Dec2024 22:31:35.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
+[05Dec2024 22:31:54.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4040ms or 80 ticks behind
+[05Dec2024 22:31:59.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Need A Map?]
+[05Dec2024 22:32:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [How long's this been here?]
+[05Dec2024 22:32:13.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[05Dec2024 22:32:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Where Is The Stone Pen?]
+[05Dec2024 22:32:25.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Greg the Jerk'/54413, l='ServerLevel[world]', x=798.33, y=-44.00, z=-373.49] died: Greg the Jerk was slain by Flaqued
+[05Dec2024 22:32:32.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[05Dec2024 22:32:40.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 22:32:55.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7941ms or 158 ticks behind
+[05Dec2024 22:33:13.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
+[05Dec2024 22:33:31.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[05Dec2024 22:33:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Fortune Seeker]
+[05Dec2024 22:33:49.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[05Dec2024 22:34:08.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[05Dec2024 22:34:26.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[05Dec2024 22:34:44.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[05Dec2024 22:35:03.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[05Dec2024 22:35:20.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[05Dec2024 22:35:37.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[05Dec2024 22:35:58.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5926ms or 118 ticks behind
+[05Dec2024 22:36:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Chest Slayer]

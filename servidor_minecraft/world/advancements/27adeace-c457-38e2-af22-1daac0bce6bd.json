@@ -10348,6 +10348,12 @@
     },
     "done": false
   },
+  "reliquary:recipes/misc/glowing_bread": {
+    "criteria": {
+      "has_glowing_water": "2024-12-05 22:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-05 22:18:25 +0000"
@@ -10414,6 +10420,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-05 22:32:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10432,9 +10444,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-05 22:32:20 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/smelting/rune_from_smelting": {
     "criteria": {
       "has_item": "2024-12-05 22:17:49 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
+    "criteria": {
+      "has_darkstone": "2024-12-05 22:22:41 +0000"
     },
     "done": true
   },
@@ -10453,6 +10477,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2024-12-05 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-05 22:21:39 +0000"
     },
     "done": true
   },
@@ -10498,6 +10528,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-05 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-05 22:31:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10516,6 +10558,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-05 22:21:39 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blasting/rune_from_blasting": {
     "criteria": {
       "has_item": "2024-12-05 22:17:49 +0000"
@@ -10531,6 +10579,30 @@
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2024-12-05 21:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-05 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-05 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-05 22:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-05 22:21:39 +0000"
     },
     "done": true
   },
@@ -10561,6 +10633,18 @@
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2024-12-05 22:32:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
+    "criteria": {
+      "has_darkstone": "2024-12-05 22:22:41 +0000"
     },
     "done": true
   },
