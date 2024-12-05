@@ -2108,6 +2108,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-02 01:33:19 +0000",
       "minecraft:skeleton": "2024-12-02 00:44:24 +0000",
+      "minecraft:zoglin": "2024-12-05 21:55:05 +0000",
       "minecraft:ravager": "2024-12-02 01:32:07 +0000",
       "minecraft:hoglin": "2024-12-03 01:32:44 +0000",
       "minecraft:vindicator": "2024-12-02 19:46:17 +0000",
@@ -10168,6 +10169,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-05 20:56:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-12-05 21:55:52 +0000"
     },
     "done": true
   },

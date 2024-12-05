@@ -2228,3 +2228,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 21:54:18.274] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
 [05Dec2024 21:54:18.275] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
 [05Dec2024 21:54:18.275] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[05Dec2024 21:54:50.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[05Dec2024 21:55:11.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6661ms or 133 ticks behind
+[05Dec2024 21:55:16.925] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[05Dec2024 21:55:16.925] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[05Dec2024 21:55:16.925] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[05Dec2024 21:55:16.925] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[05Dec2024 21:55:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 21:55:45.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 21:55:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 21:56:01.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Dec2024 21:56:18.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[05Dec2024 21:57:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 22:00:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
+[05Dec2024 22:05:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Dark Blacksmith]
