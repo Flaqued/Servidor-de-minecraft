@@ -2335,3 +2335,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 17:24:47.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Danny the Misunderstood'/53808, l='ServerLevel[world]', x=514.24, y=-9.00, z=457.59] died: Danny the Misunderstood was slain by Flaqued
 [05Dec2024 17:25:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Magnificence]
 [05Dec2024 17:28:20.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 676.500000, 74.500000, 263.500000]
+[05Dec2024 17:32:34.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Glowstone] to Flaqued]
+[05Dec2024 17:32:44.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Spyglass] to Flaqued]
+[05Dec2024 17:35:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 17:36:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Brown Mushroom] to Flaqued]
