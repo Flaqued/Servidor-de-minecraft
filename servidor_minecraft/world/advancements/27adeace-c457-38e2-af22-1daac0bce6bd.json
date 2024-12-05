@@ -2816,6 +2816,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-02 00:38:48 +0000",
+      "pumpkin_pie": "2024-12-05 22:36:48 +0000",
       "bread": "2024-12-02 01:05:57 +0000",
       "cookie": "2024-12-02 01:12:21 +0000",
       "carrot": "2024-12-02 21:47:40 +0000"
@@ -10342,11 +10343,29 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-05 22:33:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_0": "2024-12-05 21:57:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-05 22:36:06 +0000"
+    },
+    "done": true
   },
   "reliquary:recipes/misc/glowing_bread": {
     "criteria": {
@@ -10372,6 +10391,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-05 22:43:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10387,6 +10412,12 @@
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
       "has_deepslate_pillar_trim": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 22:43:42 +0000"
     },
     "done": true
   },
@@ -10426,6 +10457,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-05 22:33:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10462,9 +10499,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2024-12-05 22:43:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 22:43:42 +0000"
     },
     "done": true
   },
@@ -10477,6 +10526,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2024-12-05 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 22:43:42 +0000"
     },
     "done": true
   },
