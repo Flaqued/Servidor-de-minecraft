@@ -2243,3 +2243,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 22:00:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThunDer992: Removed effect Infection from ThunDer992]
 [05Dec2024 22:05:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Dark Blacksmith]
 [05Dec2024 22:14:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: 1 slots of type necklace have been added to ThunDer992]
+[05Dec2024 22:17:25.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[05Dec2024 22:17:42.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[05Dec2024 22:18:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: 1 slots of type necklace have been added to ThunDer992]
+[05Dec2024 22:19:04.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: 1 slots of type necklace have been removed from ThunDer992]
+[05Dec2024 22:19:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Removed effect Infection from Flaqued]
+[05Dec2024 22:20:06.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved too quickly! -201.40491428809946,95.0,221.7931909208794
+[05Dec2024 22:20:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Apothic Spawners]
+[05Dec2024 22:20:18.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Dec2024 22:20:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[05Dec2024 22:21:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Apothic Spawners]
+[05Dec2024 22:22:29.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[05Dec2024 22:22:47.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
