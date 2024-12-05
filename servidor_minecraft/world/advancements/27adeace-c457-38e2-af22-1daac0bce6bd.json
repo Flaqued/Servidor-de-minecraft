@@ -397,7 +397,8 @@
       "snowy_fir_clearing": "2024-12-05 16:22:53 +0000",
       "glowing_grotto": "2024-12-02 00:42:40 +0000",
       "undergrowth": "2024-12-03 00:56:04 +0000",
-      "snowy_maple_woods": "2024-12-05 16:22:56 +0000"
+      "snowy_maple_woods": "2024-12-05 16:22:56 +0000",
+      "crag": "2024-12-05 23:01:57 +0000"
     },
     "done": false
   },
@@ -2903,6 +2904,7 @@
       "minecraft:ice_spikes": "2024-12-02 19:32:12 +0000",
       "minecraft:frozen_ocean": "2024-12-02 19:03:17 +0000",
       "minecraft:snowy_beach": "2024-12-02 19:01:17 +0000",
+      "minecraft:deep_dark": "2024-12-05 23:03:02 +0000",
       "minecraft:plains": "2024-12-02 02:54:00 +0000"
     },
     "done": false
@@ -10349,6 +10351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-05 23:02:34 +0000"
+    },
+    "done": true
+  },
   "endrem:main/old_eye": {
     "criteria": {
       "old_eye": "2024-12-05 22:33:38 +0000"
@@ -10364,6 +10372,12 @@
   "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_from_smelting": {
     "criteria": {
       "has_item": "2024-12-05 22:52:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-05 23:02:34 +0000"
     },
     "done": true
   },
@@ -10424,6 +10438,12 @@
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-05 23:02:32 +0000"
     },
     "done": true
   },
@@ -10649,9 +10669,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-05 23:02:32 +0000"
+    },
+    "done": true
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-05 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-05 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-05 23:02:34 +0000"
     },
     "done": true
   },
@@ -10697,9 +10735,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "generic_revelation": "2024-12-05 23:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2024-12-05 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/coal_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-05 23:02:32 +0000"
     },
     "done": true
   },
