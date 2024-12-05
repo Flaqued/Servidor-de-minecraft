@@ -10328,6 +10328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_4": "2024-12-05 23:09:25 +0000",
@@ -10338,6 +10344,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-05 23:30:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2024-12-05 23:42:33 +0000"
     },
     "done": true
   },
@@ -10359,6 +10371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-05 23:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-05 23:11:43 +0000"
@@ -10374,6 +10392,12 @@
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
     },
     "done": true
   },
@@ -10545,9 +10569,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_from_blasting": {
     "criteria": {
       "has_item": "2024-12-05 22:52:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-05 23:42:35 +0000"
     },
     "done": true
   },
@@ -10629,6 +10665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-05 23:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-05 23:02:32 +0000"
@@ -10650,6 +10692,12 @@
   "handcrafted:recipes/misc/mangrove_desk": {
     "criteria": {
       "has_mangrove_desk": "2024-12-05 23:11:17 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-05 23:36:23 +0000"
     },
     "done": true
   },
@@ -10755,6 +10803,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-05 23:39:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 22:18:48 +0000"
@@ -10845,6 +10899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
     "criteria": {
       "has_mangrove_planks": "2024-12-05 23:11:17 +0000"
@@ -10893,6 +10953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 23:11:43 +0000"
@@ -10908,6 +10974,12 @@
   "bakery:recipes/sweet_dough": {
     "criteria": {
       "has_sugar": "2024-12-05 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-05 23:38:30 +0000"
     },
     "done": true
   },
@@ -10989,6 +11061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/yeast": {
     "criteria": {
       "has_sugar": "2024-12-05 22:47:08 +0000"
@@ -11031,6 +11109,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-12-05 23:46:31 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-12-05 22:21:11 +0000"
@@ -11040,6 +11124,12 @@
   "supplementaries:recipes/decorations/sign_post_mangrove": {
     "criteria": {
       "has_planks": "2024-12-05 23:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
     },
     "done": true
   },
@@ -11163,6 +11253,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2024-12-05 23:38:31 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
       "generic_revelation": "2024-12-05 23:04:16 +0000"
@@ -11190,6 +11286,24 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/coal_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-12-05 23:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-05 23:38:02 +0000"
     },
     "done": true
   },
@@ -11271,6 +11385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-05 23:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 23:11:17 +0000"
@@ -11292,6 +11412,12 @@
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2024-12-05 23:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
     },
     "done": true
   },
@@ -11319,9 +11445,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-05 23:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-05 23:37:56 +0000"
     },
     "done": true
   },
