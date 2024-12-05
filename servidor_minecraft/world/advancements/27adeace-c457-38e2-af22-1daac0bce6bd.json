@@ -3094,6 +3094,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2024-12-02 01:17:09 +0000",
+      "blueprinttable": "2024-12-05 16:40:26 +0000",
       "smoker": "2024-12-02 01:15:37 +0000",
       "smithingtable": "2024-12-02 20:35:47 +0000",
       "blastfurnace": "2024-12-02 00:50:51 +0000"
@@ -9830,6 +9831,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2024-12-05 16:34:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/frost_stew": {
     "criteria": {
       "has_item": "2024-12-05 16:32:32 +0000"
@@ -9845,6 +9852,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-05 16:19:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2024-12-05 16:37:27 +0000"
     },
     "done": true
   },
@@ -9929,6 +9942,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-12-05 16:26:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-05 16:35:35 +0000"
     },
     "done": true
   },
